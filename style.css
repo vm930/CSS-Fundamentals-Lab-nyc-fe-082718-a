@@ -1,5 +1,59 @@
+header{
+  margin-left: auto;
+  margin-right:auto;
+  width: 50%;
+}
+
 body {
   width: 100%;
   height: 100%;
   margin: 0;
 }
+
+img {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+nav {
+  margin-left:auto;
+  margin-right:auto;
+  width:100%;
+}
+nav > a {
+  background-color: grey;
+  padding:10px;
+}
+
+figcaption {
+  margin-right:auto;
+  margin-left: auto;
+  width: 50%;
+  font-size: 12px;
+}
+
+#featured-property {
+  width:800px;
+  margin-right:auto;
+  margin-left:auto;
+}
+
+#details{
+  display: block;
+}
+
+div{
+  margin-right: auto;
+  margin-left: auto;
+  width:25%;
+  background-color: red;
+}
+/*
+
+
+- **Make our `#details` section horizontal**: The details section could go nicely as a footer to the page, instead of a vertical list. Change its `display` value to block and make sure each of the `<div>`s is `float`ing to the `left`.
+
+- **As a finishing touch**: Let's clean up the `<div>`s at the bottom of the page. All of them should have the same background color, centered text, and occupy 25% of the `width` of the bottom row (since we have 4 divs).
+*/
