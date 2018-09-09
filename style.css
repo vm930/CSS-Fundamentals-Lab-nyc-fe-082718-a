@@ -21,6 +21,8 @@ nav {
   margin-left:auto;
   margin-right:auto;
   width:100%;
+}
+.a {
   background-color: grey;
   padding:10px;
 }
