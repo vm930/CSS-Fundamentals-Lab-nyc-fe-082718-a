@@ -43,6 +43,10 @@ figcaption {
 details{
   display: block;
 }
+
+div{
+  margin-right: -50%;
+}
 /*
 
 
