@@ -31,13 +31,11 @@ figcaption {
   margin-right:auto;
   margin-left: auto;
   width: 50%;
-  font-size: 15px;
+  font-size: 12px;
 }
 
 
 /*
-
-- **Our image caption needs work**: Let's shrink that font size down and make sure it is centered.
 
 - **Update the text block**: Wouldn't it look nicer if our text was centered as well? Our image is about 900px wide, so let's give all our `<p>` within `#featured-property` a hard width of 800px and center the text in there.
 
