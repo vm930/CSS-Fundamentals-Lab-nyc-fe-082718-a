@@ -22,7 +22,7 @@ nav {
   margin-right:auto;
   width:100%;
 }
-href {
+nav > a {
   background-color: grey;
   padding:10px;
 }
