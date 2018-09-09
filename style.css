@@ -31,8 +31,10 @@ figcaption {
   margin-right:auto;
   margin-left: auto;
   width: 50%;
-  font-size: 20;
+  font-size: 10px;
 }
+
+
 /*
 
 - **Our image caption needs work**: Let's shrink that font size down and make sure it is centered.
