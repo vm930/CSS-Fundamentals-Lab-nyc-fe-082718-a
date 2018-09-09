@@ -40,12 +40,15 @@ figcaption {
   margin-left:auto;
 }
 
-details{
+#details{
   display: block;
 }
 
 div{
-  margin-right: -50%;
+  margin-right: auto;
+  margin-left: auto;
+  width:25%;
+  background-color: red;
 }
 /*
 
