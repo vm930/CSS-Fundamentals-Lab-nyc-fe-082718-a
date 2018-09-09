@@ -41,7 +41,7 @@ figcaption {
 }
 
 #details{
-  margin:0 auto;
+  display: block;
 }
 
 div{
