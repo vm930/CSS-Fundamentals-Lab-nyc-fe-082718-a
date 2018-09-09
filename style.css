@@ -40,8 +40,8 @@ figcaption {
   margin-left:auto;
 }
 
-#details{
-  display: inline-block;
+details{
+  display: block;
 }
 /*
 
