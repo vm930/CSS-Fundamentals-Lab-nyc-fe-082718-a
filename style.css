@@ -17,16 +17,15 @@ img {
   width: 50%;
 }
 
-.a {
+nav {
   margin-left:auto;
   margin-right:auto;
   width:100%;
   background-color: grey;
   padding:10px;
 }
-/*
 
-- **Center our image**: We only have one image on the page and we would like it centered!
+/*
 
 - **Jazz up our navigation links**: Let's center all of our nav links as well. Give all of the `<a>` tags within our navbar a padding of 10px on their left and right sides. In addition, change their background color to something of your choosing. We chose grey!
 
